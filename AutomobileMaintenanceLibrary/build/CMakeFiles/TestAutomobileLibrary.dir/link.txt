@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/TestAutomobileLibrary.dir/test_main.cpp.o CMakeFiles/TestAutomobileLibrary.dir/Automobile.cpp.o CMakeFiles/TestAutomobileLibrary.dir/MaintenanceTask.cpp.o CMakeFiles/TestAutomobileLibrary.dir/MaintenanceLibrary.cpp.o -o TestAutomobileLibrary 

@@ -1,4 +1,0 @@
-/mnt/f/AutomobileMaintenanceProject/build/CMakeFiles/AutomobileMaintenance.dir
-/mnt/f/AutomobileMaintenanceProject/build/CMakeFiles/TestAutomobileLibrary.dir
-/mnt/f/AutomobileMaintenanceProject/build/CMakeFiles/edit_cache.dir
-/mnt/f/AutomobileMaintenanceProject/build/CMakeFiles/rebuild_cache.dir
